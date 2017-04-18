@@ -86,7 +86,7 @@
         }
       }
     },
-    "work": {
+    "research": {
       "type": "array",
       "additionalItems": false,
       "items": {
